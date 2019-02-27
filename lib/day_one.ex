@@ -34,12 +34,12 @@ defmodule DayOne do
   end
 end
 
-IO.puts(
-  "The resulting frequency after all of the changes in frequency, is #{
-    DayOne.get_resulting_freq()
-  }."
-)
+# IO.puts(
+#   "The resulting frequency after all of the changes in frequency, is #{
+#     DayOne.get_resulting_freq()
+#   }."
+# )
 
-IO.puts(
-  "The recurring frequency that your device reaches twice is #{DayOne.get_recurring_freq()}."
-)
+# IO.puts(
+#   "The recurring frequency that your device reaches twice is #{DayOne.get_recurring_freq()}."
+# )
